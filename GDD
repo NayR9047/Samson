@@ -1,0 +1,71 @@
+GDC
+
+
+GAME CONCEPT :
+
+Titre : XXXXXXXX
+
+L'équipe/Crédits : 
+Vion Ryan, Massinissa Chaouchi
+
+Sommaire :
+XXXXX
+XXXXX
+XXXXX
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+GAME DESIGN :
+
+Synopsis : 
+	Samson un jeune homme de 13 ans venant d'un petit village isolé, du nom de village de la tortue, décide de partir à l'aventure. 
+A peine arrivé dans la forêt bordant sa terre natale, il fait la rencontre de Ire, une jeune étrangère couverte de sang, entourée de cadavres de soldats de l'empire jonchant le sol... 
+Après lui avoir offert un tissu propre pour se laver il décide de l'accompagner dans son périple pour retrouver son foyer...
+
+
+BACKGROUND :
+Univers aux apparences d'héroïc-Fantasy se révélant au fur et à mesure être de la S.F.
+
+	Un cataclysme sans nom à forcer l'humanité à l'exode à bord de multiples arches. L'arche «Durandal» créée par l'U.E.O. (Union Européenne Occidentale) s'écrase sur «Nouvelle-Jérusalem» une planète quasi-similaire à la Terre.
+
+				  	Aucun être humain survécu... 
+
+ Cependant l'IA responsable de cette catastrophe, du nom d'OURANOS, prit contrôle de M.A.Ï.A. Une machine ayant la capacité de recréer des êtres vivants avec du matériel génétique adéquat (stocké sur l'arche) et décida de recréer l'humanité et de la diriger vers un avenir meilleur.
+
+					-1000 ANS PLUS TARD-
+
+	OURANOS dirige un empire millénaire à la tête de toute l'humanité... ou presque...    
+  Quelques communautés très réduites subsistent en dehors de l'empire. C'est le cas du village de la tortue où a vécu notre protagoniste, une micro-société vivant au bord de l'océan ainsi que les habitants du plateau du nuage céleste (lieu de vie d'Ire) descendants des êtres humains ayant survécu au crash de la bergerie (=lieu de vie des personnes au sein de l'arche). 
+  Après la découverte du plateau du nuage céleste l'empire décide de les exterminer...	
+
+
+GAMEPLAY :
+  Platformer 2D/Beat'them up/Shmup'/«Hit and Dodge»
+
+   Le gameplay se concentre sur :
+Les déplacements du personnage style platformer/jeux Versus-Fighting pour l'ESQUIVE des attaques adverses (surtout les projectiles façon shmup')
+L'attaque des protagonistes pour percer les défenses adverses soit via des combos, soit via le déplacements d'adversaires pour briser leurs formations
+
+GAMEFEEL / MOTEUR DU JOUEUR : 
+Réussir à casser une formation ennemi
+Réaliser des combos
+Esquiver des paternes de shmup' avec des contrôles de platformer/V.F.
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+GRAPHISME :
+
+Animation 2D - image numérique - sans caméra - dessins en à plat
+
+3 niveaux d'ombre : normal,foncé,très foncé
+
+Matériel: Tablette graphique XP-PEN Artist 15.6 Pro
+Logiciels: Krita, Gimp, Blenders
+
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+PROGRAMMATION :
+
+
